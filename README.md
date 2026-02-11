@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ItielSanz</h1>
-<h3 align="center">Systems Engineering Student 🇲🇽 | MLSA | AxoPunk</h3>
+<h3 align="center">Systems Engineering Student 🇲🇽 <br>AxoPunk | MLSA | GitHub Campus Experts | Zabbix Community Mexico</h3>
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItielSanzAXO&" alt="ItielSanzAXO" />
